@@ -1,4 +1,5 @@
 <h1>Table of Contents</h1>
+<h6><i>These files contain uncompiled C.</i></h6>
 <ul style="list-style-type: none;">
   <li><b>lesson_1-1.c:</b></li>
     <ul>
