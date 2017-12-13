@@ -5,7 +5,7 @@
     <ul>
       <li>Hello world!</li>
     </ul>
-  <li>lesson_1-2.c</li>
+  <li><b>lesson_1-2.c</b></li>
     <ul>
     <li>Prints Fahrenheit-Celsius conversion table</li>
     </ul>
