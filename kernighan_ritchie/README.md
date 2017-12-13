@@ -6,6 +6,9 @@
       <li>Hello world!</li>
     </ul>
   <li>lesson_1-2.c</li>
+    <ul>
+    <li>Prints Fahrenheit-Celsius conversion table</li>
+    </ul>
   <li>lesson_1-3.c</li>
   <li>lesson_1-4.c</li>
   <li>lesson_1-5-1.c</li>
